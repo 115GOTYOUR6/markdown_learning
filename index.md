@@ -1,9 +1,5 @@
-# Heading 1
-## Heading 2
-#### / ? some idk .
-
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+# Images
+<!-- Add your own image here -->
 
 
 # Code Example
@@ -15,3 +11,14 @@ if y in x:
 else:
     print("no")
 ```
+
+# details
+<details>
+    <summary>My button has a name</summary>
+    This is hidden
+</details>
+
+# Quoting
+> This be something inspirational :D
+
+— Someone more intelligent than me
